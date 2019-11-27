@@ -13,7 +13,7 @@ Find out how to build a simple Guess The Celebrity game. Author Melvin Kisten ta
 	
 	`> git clone https://github.com/iammelvink/guess-the-celebrity.git`
 3. Run Android Studio and choose Open an existing Android Sudio project
-4. Press play button to run the app (Shows black screen for a while, because the app downloads the entire HTML of the website)
+4. Press play button to run the app (Shows black screen for a while, because the app downloads the entire HTML of the website). 
 
 ## More Stuff
 Check out some of my other stuff on [WiiLearnTech](https://www.wiilearntech.com). Follow me on [Twitter](https://twitter.com/iammelvink) and [Instagram](https://www.instagram.com/iammelvink/), or check out my [Youtube channel](https://www.youtube.com/channel/UCwMGEkyU2QOqEEKJ1E5pe7w).
