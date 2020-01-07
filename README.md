@@ -16,4 +16,4 @@ Find out how to build a simple Guess The Celebrity game. Author Melvin Kisten ta
 4. Press play button to run the app (Shows black screen for a while, because the app downloads the entire HTML of the website). 
 
 ## More Stuff
-Check out some of my other stuff on [WiiLearnTech](https://www.wiilearntech.com "WiiLearnTech Website"). Follow me on [Twitter](https://twitter.com/iammelvink "iammelvink") and [Instagram](https://www.instagram.com/iammelvink "iammelvink"), or check out my [YouTube channel](https://www.youtube.com/channel/UCwMGEkyU2QOqEEKJ1E5pe7w "WiiLearnTech YouTube").
+Check out some of my other stuff on [iammelvink](https://iammelvink.github.io/ "iammelvink Portfolio Website"). Follow me on [Twitter](https://twitter.com/iammelvink "iammelvink") and [Instagram](https://www.instagram.com/iammelvink "iammelvink"), or check out my [YouTube channel](https://www.youtube.com/channel/UCwMGEkyU2QOqEEKJ1E5pe7w "WiiLearnTech YouTube").
